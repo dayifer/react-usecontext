@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-usecontext/static/css/main.6c9207bd.css",
+    "main.js": "/react-usecontext/static/js/main.a670e522.js",
+    "index.html": "/react-usecontext/index.html",
+    "static/media/delete.svg": "/react-usecontext/static/media/delete.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/check.svg": "/react-usecontext/static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.6c9207bd.css.map": "/react-usecontext/static/css/main.6c9207bd.css.map",
+    "main.a670e522.js.map": "/react-usecontext/static/js/main.a670e522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9207bd.css",
+    "static/js/main.a670e522.js"
+  ]
+}
